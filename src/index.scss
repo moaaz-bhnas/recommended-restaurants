@@ -172,7 +172,8 @@ main {
 }
 
 #restaurants-list {
-    max-width: 10.537rem;
+    margin: 0 auto;
+    max-width: 11.5rem;
     @media screen and (min-width: $break-l) {
       max-width: 17rem;
       width: 17rem;

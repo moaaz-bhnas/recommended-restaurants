@@ -147,7 +147,7 @@ class App extends Component {
               infoWindow.open(map, marker);
               // Toggle Sidebar
               if (window.innerWidth <= 520) {
-                this.toggleSidebar();
+                this.closeSideBar();
               }
           })
       })
@@ -173,6 +173,12 @@ class App extends Component {
     this.setState(prev => ({
       sidebarShown: !prev.sidebarShown
     }))
+  }
+
+  closeSideBar() {
+    this.setState({
+      sidebarShown: false
+    })
   }
 
   closeModal() {
