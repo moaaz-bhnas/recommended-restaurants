@@ -69,10 +69,10 @@ abbr {
   button {
     display: block;
     margin: 0 auto;
-    background-color: #aaa;
+    background-color: #bbb;
     border-radius: .3rem;
     &[aria-pressed="true"] {
-      background-color: #777;
+      background-color: #555;
     }
   }
 
