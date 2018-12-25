@@ -2,7 +2,7 @@
 An app that helps you find the restaurants in a certain area you choose ordered by their rates, along with some useful information about each (category, rating, address, number ..)
 
 ## Live
-
+https://moaaz-bhnas.github.io/recommended-restaurants/
  
 ## Screenshots
 ![live preview](https://media.giphy.com/media/2rAwoHnIIqCkHw8gP3/giphy.gif) ![Screenshot](https://i.ibb.co/vB722c2/1.png)
