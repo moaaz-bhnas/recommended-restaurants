@@ -1,16 +1,16 @@
 {
-  "main.css": "/recommended-restaurants/static/css/main.09ee17fd.chunk.css",
-  "main.js": "/recommended-restaurants/static/js/main.3d5a6db4.chunk.js",
-  "main.js.map": "/recommended-restaurants/static/js/main.3d5a6db4.chunk.js.map",
+  "main.css": "/recommended-restaurants/static/css/main.eca9ab57.chunk.css",
+  "main.js": "/recommended-restaurants/static/js/main.f691e478.chunk.js",
+  "main.js.map": "/recommended-restaurants/static/js/main.f691e478.chunk.js.map",
   "static/js/1.9aff8d60.chunk.js": "/recommended-restaurants/static/js/1.9aff8d60.chunk.js",
   "static/js/1.9aff8d60.chunk.js.map": "/recommended-restaurants/static/js/1.9aff8d60.chunk.js.map",
   "runtime~main.js": "/recommended-restaurants/static/js/runtime~main.506cc0ee.js",
   "runtime~main.js.map": "/recommended-restaurants/static/js/runtime~main.506cc0ee.js.map",
-  "static/css/main.09ee17fd.chunk.css.map": "/recommended-restaurants/static/css/main.09ee17fd.chunk.css.map",
+  "static/css/main.eca9ab57.chunk.css.map": "/recommended-restaurants/static/css/main.eca9ab57.chunk.css.map",
   "static/media/google.svg": "/recommended-restaurants/static/media/google.9367e4e3.svg",
   "static/media/menu.svg": "/recommended-restaurants/static/media/menu.b6b91991.svg",
   "static/media/foursquare.svg": "/recommended-restaurants/static/media/foursquare.dcea39ad.svg",
   "index.html": "/recommended-restaurants/index.html",
-  "precache-manifest.6c164a447e044ad18953e248d013401c.js": "/recommended-restaurants/precache-manifest.6c164a447e044ad18953e248d013401c.js",
+  "precache-manifest.d69d026843b5063dc6002bfce96df386.js": "/recommended-restaurants/precache-manifest.d69d026843b5063dc6002bfce96df386.js",
   "service-worker.js": "/recommended-restaurants/service-worker.js"
 }
