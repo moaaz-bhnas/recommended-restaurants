@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/recommended-restaurants/static/js/runtime~main.506cc0ee.js"
   },
   {
-    "revision": "f517d6c0de8711e7e519",
-    "url": "/recommended-restaurants/static/js/main.f517d6c0.chunk.js"
+    "revision": "da7c534c07207cfe2ad9",
+    "url": "/recommended-restaurants/static/js/main.da7c534c.chunk.js"
   },
   {
-    "revision": "a15b7073f0acbe29242c",
-    "url": "/recommended-restaurants/static/js/1.a15b7073.chunk.js"
+    "revision": "9aff8d6064d3faaba019",
+    "url": "/recommended-restaurants/static/js/1.9aff8d60.chunk.js"
   },
   {
-    "revision": "f517d6c0de8711e7e519",
-    "url": "/recommended-restaurants/static/css/main.d361eeb8.chunk.css"
+    "revision": "da7c534c07207cfe2ad9",
+    "url": "/recommended-restaurants/static/css/main.89784be4.chunk.css"
   },
   {
-    "revision": "4c60463dd4f90bc2b63207c9a8c1e807",
+    "revision": "7dddb47acc3473c648243e9c00bc4710",
     "url": "/recommended-restaurants/index.html"
   }
 ];
