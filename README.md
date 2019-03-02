@@ -1,5 +1,9 @@
-## Recommended Restaurants
-An app that helps you find the restaurants in a certain area you choose ordered by their rates, along with some useful information about each (category, rating, address, number ..)
+# Recommended Restaurants
+An app that helps you find the restaurants in a certain area you choose ordered by their rates, along with some useful information about each (category, rating, address, number ..).
+
+## Quality Standards
+- The project is fully accessible (friendly for disabled people and interactive elements like buttons are operable using keyboard only).
+- Cross-browser compatible (Works on most common browsers available, including IE).
 
 ## Live
 https://moaaz-bhnas.github.io/recommended-restaurants/
