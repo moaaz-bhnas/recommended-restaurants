@@ -4,6 +4,7 @@ An app that helps you find the restaurants in a certain area you choose ordered 
 ## Quality Standards
 - The project is fully accessible (friendly for disabled people and interactive elements like buttons are operable using keyboard only).
 - Cross-browser compatible (Works on most common browsers available, including IE).
+- Responsive for all screen sizes.
 
 ## Live
 https://moaaz-bhnas.github.io/recommended-restaurants/
