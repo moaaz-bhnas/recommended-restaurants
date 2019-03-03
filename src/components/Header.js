@@ -7,7 +7,6 @@ class Header extends Component {
   }
 
   detectScreenWidth = () => {
-    console.log(1);
     const smallBreakPoint = 528;
     const screenWidth = window.innerWidth;
     const {smallScreen} = this.state;
