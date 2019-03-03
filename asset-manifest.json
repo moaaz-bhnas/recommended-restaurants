@@ -1,7 +1,7 @@
 {
   "main.css": "/recommended-restaurants/static/css/main.2d3abb8a.chunk.css",
-  "main.js": "/recommended-restaurants/static/js/main.41a4caa2.chunk.js",
-  "main.js.map": "/recommended-restaurants/static/js/main.41a4caa2.chunk.js.map",
+  "main.js": "/recommended-restaurants/static/js/main.551a97e3.chunk.js",
+  "main.js.map": "/recommended-restaurants/static/js/main.551a97e3.chunk.js.map",
   "static/js/1.b5c76e66.chunk.js": "/recommended-restaurants/static/js/1.b5c76e66.chunk.js",
   "static/js/1.b5c76e66.chunk.js.map": "/recommended-restaurants/static/js/1.b5c76e66.chunk.js.map",
   "runtime~main.js": "/recommended-restaurants/static/js/runtime~main.506cc0ee.js",
@@ -11,6 +11,6 @@
   "static/media/menu.svg": "/recommended-restaurants/static/media/menu.b6b91991.svg",
   "static/media/foursquare.svg": "/recommended-restaurants/static/media/foursquare.dcea39ad.svg",
   "index.html": "/recommended-restaurants/index.html",
-  "precache-manifest.7d1dccc06f0293ba037bcad8b0fabff5.js": "/recommended-restaurants/precache-manifest.7d1dccc06f0293ba037bcad8b0fabff5.js",
+  "precache-manifest.fab684e542ee88a548c4e5a3f9855c74.js": "/recommended-restaurants/precache-manifest.fab684e542ee88a548c4e5a3f9855c74.js",
   "service-worker.js": "/recommended-restaurants/service-worker.js"
 }
