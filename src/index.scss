@@ -45,23 +45,20 @@ abbr {
   Header
 ---------------------------------------- */
 #main-header {
+  text-align: center;
+  height: 4rem;
+  padding: 0 .5rem;
   position: relative;
   @include background-border {
     border-bottom: 4px solid;
   }
-  padding: .5rem;
   text-align: center;
-  @media screen and (min-width: $break-s) {
-    padding: 1.2rem;
-  }
 
   h1 {
-    font-size: 1.3rem;
-    margin: 0 0 .5rem;
+    display: inline-block;
+    line-height: 3.75rem;
+    margin: 0;
     @media screen and (min-width: $break-s) {
-      margin: 0;
-    }
-    @media screen and (min-width: $break-m) {
       font-size: 1.5rem;
     }
   }
@@ -78,22 +75,15 @@ abbr {
 
   #place-btn {
     padding: .8rem .4rem;
-    @media screen and (min-width: $break-s) {
-      position: absolute;
-      top: 50%; right: .5rem;
-      transform: translateY(-50%);
-    }
+    margin-top: 0.388rem;
+    float: right;
   }
 
   #menu-btn {
     width: 3rem; height: 2.7rem;
     padding-top: .2rem;
-    margin-bottom: .5rem;
-    @media screen and (min-width: $break-s) {
-      position: absolute;
-      top: 50%; left: .5rem;
-      transform: translateY(-50%);
-    }
+    margin-top: .525rem;
+    float: left;
   }
 }
 
